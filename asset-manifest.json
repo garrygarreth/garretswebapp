@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/garretswebapp/static/css/main.79f8f296.css",
+    "main.js": "/garretswebapp/static/js/main.bd97ffa7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/garretswebapp/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Videoof.mp4": "/garretswebapp/static/media/Videoof.62f418e349ffdaef2758.mp4",
+    "static/media/caravan.mp3": "/garretswebapp/static/media/caravan.5ec36d2d6725813a780f.mp3",
+    "static/media/pfp.jpg": "/garretswebapp/static/media/pfp.9ccf3fc6c4f41a343666.jpg",
+    "static/media/yeo.jpg": "/garretswebapp/static/media/yeo.2112de30fb7d54a7df68.jpg",
+    "static/media/logo.svg": "/garretswebapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/garretswebapp/index.html",
+    "main.79f8f296.css.map": "/garretswebapp/static/css/main.79f8f296.css.map",
+    "main.bd97ffa7.js.map": "/garretswebapp/static/js/main.bd97ffa7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/garretswebapp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79f8f296.css",
+    "static/js/main.bd97ffa7.js"
+  ]
+}
